@@ -1,0 +1,13 @@
+.field {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+
+.field-item {
+    height: 200px;
+    background-color: lightblue;
+    margin: 10px;
+    border-radius: 25px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
